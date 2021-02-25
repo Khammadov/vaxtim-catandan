@@ -1,0 +1,150 @@
+
+.container{
+    width: 1400px;
+    height: 800px;
+
+}
+header .container .row .left{
+    background-color: #e95258;
+    position: relative;
+   
+}
+header .container .row .left #lg{
+
+padding-left: 115px;
+border-radius: 0px;  
+}
+
+header .container .row .left .logo #lgtxt{
+text-align: left;
+color: white;
+display: inline-block;
+padding-top: 20px;
+margin-left: 20px;
+
+}
+header .container .row .left .cardio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    padding-right: 100px;
+    
+}
+header .container .row .left .cardio .center{
+
+ text-align: right;
+  padding-top: 144px;
+font-family: TT Hoves;
+font-style: normal;
+font-weight: 770;
+font-size: 22px;
+text-transform: uppercase;
+color: #F9F9F9;
+padding-left: 172px;
+
+
+}
+header .container .row .left .cardio #txt1{
+width: 328px;
+height: 120px;
+font-family: TT Hoves;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+text-align: right;
+color: #F9F9F9;
+   
+}
+header .container .row .left .cardio .up p{
+
+
+}
+header .container .row .left .cardio .up .dopt{
+
+position: absolute;
+width: 6px;
+height: 6px;
+border: 1px solid #F9F9F9;
+box-sizing: border-box;
+border-radius: 100%;
+
+}
+header .container .row .left .cardio .up .dopt #dp1{
+    padding-right: 100px;
+}
+header .container .row .left .cardio .img{
+    background-image: url(img/748\ 1.png);
+    z-index: -1;
+    width: 395px;
+    height: 556px;
+    position: absolute;
+}
+header .container .row .left .cardio .button {
+
+
+
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+border: 1px solid #F9F9F9;
+box-sizing: border-box;
+border-radius: 25px;
+display: inline-block;
+text-align: center;
+
+}
+header .container .row .right{
+    background-color: #F9F9F9;
+    position: relative;
+}
+header .right .navbar .nav .color a{
+font-family: TT Hoves;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+color: #32495E;
+
+
+}
+header .container .row .right .center {
+    text-align: left;
+  padding-top: 144px;
+font-family: TT Hoves;
+font-style: normal;
+text-transform: uppercase;
+color:  #32495E;
+
+padding-left: 100px;
+width: 450px;
+height: 72px;
+
+
+}
+header .container .row .right {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    padding-left: 100px;
+
+}
+header .container .row .right  {
+
+width: 250px;
+height: 119px;
+
+font-family: TT Hoves;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+color: #32495E;
+text-align: left;
+padding-left: 100px;
+}
+
+
+
+
+
